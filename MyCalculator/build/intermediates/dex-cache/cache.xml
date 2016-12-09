@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_fff41acec396d39fae8d02ca617bfe082e4425d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_89b63cc7c77e04b82da1665f79f46db01b76cd48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_24580bac62417e8a964372db39c990ffc98d4c06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_c3360044014b94b0a19862f3950f44ee6ca54355\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_799b1e4fd921d8fe658b80ff17e527667da9ab76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4c9161c1d18ad24250fcef8f9254aa0843d62e6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7a63a33f4e8d88e5040e71bb8c1f90450f8a26b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_a6b52a8fe9472667f69539e08928212bdb90a39b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_4bd117a500f2537227f47c2ee5bcb7ca0f14f6b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_a578ffab0993792c75a36b4fa31b3a73fa44cdd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fad3946d2f05c2b4cacf26e67da0c0c0ca409ae1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="232afb24a1bc5854ccf2dc6ddc72d6017c1cbfe1">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_da9af523fc8ec25787e46bde1fb2f2330a3f949a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_8ce73d94a9ff90eda1c5b099686c40039cc5421d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ff1fe6d181d50b3eb27887f67f6fdf3374f787d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_6f20c007c88b373aec9fb2ad25ebde14fb926fe3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_fec1fe2a4295d7c6505a2de1f1f075f28a68b01b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_ce76da1c93cd7b6a35bd317968dfec65daeef5ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_e2eeb455d75c584af8015ed1cc939546cac32f36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca9418e5dbab6b98af7f83c575897cff88b37814">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5bd5e40ec5f0463364ec5a05c67b487b1cd1630a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\ctj535\Desktop\Android\MyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0ffcd66fb7daaff9f49ba083f483fa9b90bcfcef\classes.dex" />
+    </item>
+
+</items>
